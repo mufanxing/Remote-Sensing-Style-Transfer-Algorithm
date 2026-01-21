@@ -34,12 +34,6 @@ Pretrained model weights with style parameters have been uploaded to the `result
 
 Relevant core code, as well as detailed installation and running tutorials, will be updated later. Please stay tuned to the repository for updates.
 
-## Update Log
-
-- 2 days ago: Initial commit, completed [README.md](README.md) initialization and uploaded paper experimental result images
-
-- Yesterday: Uploaded model weight files with style parameters
-
 ## Contact & Feedback
 
 If you have any questions, suggestions, or cooperation needs, please feel free to leave a message via GitHub Issues for communication.
