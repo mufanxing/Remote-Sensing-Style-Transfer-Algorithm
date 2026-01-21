@@ -10,7 +10,7 @@ This repository focuses on remote sensing image style transfer tasks, providing 
 
 ## Result Display
 
-Detailed remote sensing image style transfer experimental results are stored in the `result_images` folder of the repository. You can directly access the folder to view the complete effects.
+Detailed remote sensing image style transfer experimental results are stored in the `result_image` folder of the repository. You can directly access the folder to view the complete effects.
 
 ## Model Weights
 
