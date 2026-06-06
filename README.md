@@ -9,9 +9,8 @@
 This repository focuses on remote sensing image style transfer tasks, providing experimental results, model weights, and a dedicated dataset to support related research and development work.
 
 ## Result Display
-
-Detailed remote sensing image style transfer experimental results are stored in the `result_image` folder of the repository. You can directly access the folder to view the complete effects.
-
+Detailed experimental results of remote sensing image style transfer are stored in the result_image directory of this repository. Restricted by GitHub’s single-file size cap of 100 MB, the stylized outputs of 10000×10000 ultra-high-resolution remote sensing images are archived on Baidu Netdisk.
+Download URL: https://pan.baidu.com/s/1Nt3mWLBiQk15oepYenLN2w | Extraction code: wfhp. Readers may follow the link to obtain the full experimental data.
 ## Model Weights
 
 Pretrained model weights with style parameters have been uploaded to the `result_weights` folder. They can be downloaded directly for model deployment, fine-tuning, or secondary development.
